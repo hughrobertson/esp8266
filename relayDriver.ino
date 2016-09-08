@@ -8,7 +8,7 @@
  *  curl 192.168.2.60/gpio/read
  *  curl 192.168.2.60/gpio/ver
  *
- *
+ *  under git control
  *
  *
  */
